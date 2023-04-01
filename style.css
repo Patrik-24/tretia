@@ -1,0 +1,58 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url("img-bck.png");
+    background-repeat: no-repeat;
+    background-color: rgb(239, 248, 255);
+}
+.container {
+    margin: -140px 650px;
+    width: 45rem;
+    margin-bottom: 3rem;
+}
+.box-film {
+    display: flex;
+    border-radius: 1rem 1rem;/*
+    background-color: rgb(175, 175, 175);*/
+    margin-top: 3rem;
+}
+.upr-img {
+    border-radius: 1rem 1rem;
+}
+.p-style {
+    font-family: 'Sofia Sans', sans-serif;
+    letter-spacing: 0.25px;
+    font-size: 14px;
+    line-height: 28px;
+    margin: 1rem;
+}
+.p-name {
+    font-family: 'Rubik Gemstones', cursive;
+    font-size: 19px;
+    font-weight: 500;
+    text-transform: uppercase;
+    line-height: 1;
+    margin: 1rem;
+}
+.nadpis {
+    margin-top: 228px;
+    color: white;
+    margin-left: 205px;
+    font-size: 25px;
+    transform: rotate(17deg);
+}
+a {
+    margin: 1rem;
+    text-decoration: none;
+    background: rgb(189, 189, 189);
+    color: black;
+    padding: 0.3rem;
+    border-radius: 2rem;
+}
+a:hover {
+    color: white;
+    background-color: darkblue;
+}
+i {
+    margin: 20px 40px;
+}

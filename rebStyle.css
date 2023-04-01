@@ -1,0 +1,20 @@
+table, th, td {
+    border: 1px solid black;
+}
+.poradie {
+    text-align: right;
+}
+tr:nth-child(even) {
+    background-color: rgb(167, 167, 167);
+}
+.film-box {
+    display: flex;
+}
+.film-move {
+    margin-left: 10%;
+    width: 550px;
+}
+.hlavicka {
+    background: grey;
+    color: aliceblue;
+}
